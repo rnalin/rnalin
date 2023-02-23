@@ -1,7 +1,7 @@
 
 ## Renan Nalin
  
- <a href="https://github.com/rnalin/github-readme-stats">
+ <a href="https://github.com/rnalin/github-readme-stats" style="margin=20px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rnalin&theme=radical&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/rnalin/github-readme-stats">
